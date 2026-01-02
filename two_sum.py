@@ -1,5 +1,5 @@
 def two_sum(target, arr):
-    # POPULATE COUNTER DIC (pos, complement)
+    # POPULATE COMPLEMENT DIC (pos, complement)
 
     D = dict()
     k, j = None, None
