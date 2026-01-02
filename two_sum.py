@@ -16,5 +16,5 @@ def two_sum(target, arr):
 
 if __name__ == "__main__":
     x = int(input("enter a target sum "))
-    arr = [5, 6, 11] 
+    arr = [7, 5, 6, 11] 
     print(two_sum(x, arr))
